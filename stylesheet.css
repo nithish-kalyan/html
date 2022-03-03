@@ -1,0 +1,10 @@
+body{
+    color: bisque;
+    background: darkblue url('about.jpg') no-repeat center fixed;
+
+    
+}
+header{
+    color: burlywood;
+    background-color: crimson; 
+}
